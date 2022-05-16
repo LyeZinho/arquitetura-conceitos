@@ -1,0 +1,1 @@
+http://blog.triadworks.com.br/clean-code-boas-praticas-para-argumentos-de-funcao
