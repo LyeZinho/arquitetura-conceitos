@@ -1,0 +1,5 @@
+Clean arquiteture:
+https://www.youtube.com/watch?v=ow8UUjS5vzU&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=23
+
+Onion arquiteture:
+https://www.codeguru.com/csharp/understanding-onion-architecture/
